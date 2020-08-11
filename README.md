@@ -34,6 +34,8 @@ Las preguntas se encuentran organizadas por diferentes categorías.
   - ¿Qué tipo de experiencia tiene cada persona del equipo?
   - ¿Cuánto tiempo lleva cada uno en el equipo?
   - ¿Cuál / Cuáles dirías que son los puntos débiles / a mejorar del equipo? ¿Y los fuertes?
+  - ¿Cuál es el motivo de mi incorporación (ej. rotación, ampliación del equipo)?
+  - ¿Cuáles fueron los motivos por los cuales el último miembro en abandonar el equipo / empresa se marchó?
 
 - **Metodología**
 	- ¿Qué metodología de trabajo sigue el equipo? ¿Lleváis a cabo prácticas de _eXtreme Programming_ (Pair / Mob Programming, TDD, etc.)?
