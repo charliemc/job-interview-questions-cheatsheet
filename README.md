@@ -1,5 +1,5 @@
 # Job interview questions Cheatsheet
-Colección de preguntas útiles que deberías hacer en tu próxima entrevista de trabajo para conocer en profundidad ciertos detalles sobre la empresa, su cultura, proyecto(s) y equipo del que pasarías a formar parte (conocer su estado actual, su grado de madurez, buenas/malas prácticas), tu labor y responsabilidades, etc. que te servirán de ayuda a la hora de hacer una valoración final y sacar conclusiones: si te encaja o no la oferta, detectar actitudes o ambientes tóxicos, si podría existir un alineamiento de valores empresa-empleado, etc.
+Colección de preguntas útiles que deberías hacer en tu próxima entrevista de trabajo para conocer en profundidad ciertos detalles sobre la empresa, su cultura, proyecto(s) y equipo del que pasarías a formar parte (conocer su estado actual, su grado de madurez, buenas/malas prácticas), tu labor y responsabilidades, etc. que te servirán de ayuda a la hora de hacer una valoración final y sacar conclusiones: si te encaja o no la oferta, detectar actitudes o ambientes tóxicos, si pudiese existir un alineamiento de valores empresa-empleado, etc.
 
 Las preguntas se encuentran organizadas por diferentes categorías.
 
